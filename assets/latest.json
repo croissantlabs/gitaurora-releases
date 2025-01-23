@@ -1,23 +1,23 @@
 {
-  "version": "0.1.72",
+  "version": "0.1.73",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2025-01-23T15:48:07.734Z",
+  "pub_date": "2025-01-23T16:08:13.343Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNlBjR0ZDZlJ2dFJXeC84MXZ5bk5aejNMNnVreFFHL2pTQkZRUkZmdCtBQXdQZEFzQ0JpaloxMXpnT3kveWJBaUloTU5YTkVnN09LUlFFOGpFa3FFTGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NjQ2NjUxCWZpbGU6R2l0QXVyb3JhLmFwcC50YXIuZ3oKbFhleDBaOVV5TDJSdG9NUXJxc1d0WEQ5K3RlVVIrL0FlSlNXTmtZdWRsMndEeXVWYXRraHp1ZVEyWEx5MHhxWEVnYnpJL2xSYkcxZWxXUFRPSU1uQnc9PQo=",
-      "url": "https://github.com/croissantlabs/gitaurora-releases/releases/download/app-v0.1.72/GitAurora_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNk5reGpoTG1QZ3dVZ1NVcDh6SGFrYnV1cHNMUnE5SW8wb0RGY0VqZlFTOWt2b01QN0RSNEZob0I4WktnNkJPVkR0QjZGRzVENmtiUGIvUjhzOTc5WXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NjQ3OTc2CWZpbGU6R2l0QXVyb3JhLmFwcC50YXIuZ3oKZ0ZnMVZMYU45azZ5aVlWcmhzUDlRdnlocHQ1cVZNblIyaGh2cHI1VEJJcE5IQTlZUjVNb1ZhVkVUY3o5SmZKMXVDUXJhUUhBNjdKVlNGdHRqNWtUQVE9PQo=",
+      "url": "https://github.com/croissantlabs/gitaurora-releases/releases/download/app-v0.1.73/GitAurora_x64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNkhhT25wWFZCcy9uU2hCQmE2eU9QYzFrdmY3aVZFUHFLSDZ5ODd2MFowWDlaYTAwRmdwMTAwQTdraFRCZGJ5UXF4STB3NzhCdDdYTTlKWHBDQXVzaGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NjQ2ODU5CWZpbGU6R2l0QXVyb3JhXzAuMS43Ml9hbWQ2NC5BcHBJbWFnZQpaQk1PZFFueEtPbndLQ0pKWk84T1d0VFlIUzV1SGc3SnduelVJNE9jZ2tzVTY2NzkreDhjSmlRU25iTGNBN29PMnRkU2p2bGhLNHJYS0NqYldaNHZBdz09Cg==",
-      "url": "https://github.com/croissantlabs/gitaurora-releases/releases/download/app-v0.1.72/GitAurora_0.1.72_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNkdkTG91RlY5NWczMG8zWUhxR08vNG5TeTZqL2RLeXJueUc0YkJwNWthV0JiU01uditWcG9zSHNYVFZCMTJsSnRjVkp5RFM1Z0xIdktJVnRUUE9sOVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NjQ4MTQ4CWZpbGU6R2l0QXVyb3JhXzAuMS43M19hbWQ2NC5BcHBJbWFnZQp0cnFLRWhUZnliRzVEUTlYc0sySWJPY1VQR3l5SldJbnBFQVZleGNwU3Q1R0NkcjRBcWRHaDVxY09oSEJhcHFDZGZTdXhaNHRXNDBPcU1uKzljUEtBUT09Cg==",
+      "url": "https://github.com/croissantlabs/gitaurora-releases/releases/download/app-v0.1.73/GitAurora_0.1.73_amd64.AppImage"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNlBaSURtZ21pdWtUWW9jMEl5dytSWEZlaHlmNmZLTUU4akRTRG8vNzZnKzJuaDVlWDBhSGlocktYa1JwWi92TnZXVXFYWFQ0NUl3bFZXOW1oRmYwNEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NjQ2OTAwCWZpbGU6R2l0QXVyb3JhLmFwcC50YXIuZ3oKNjVsT2VabjBMTmZoQ1B0R3M1VEcxQlI1ZDMwL3JxUmZwWDZRclB4b0VFT0lHSlUyTnBZT1dHSGd3Y29TMkNXaWdKYjdiZXNNcXRIYk14Nkd0ZWdWQVE9PQo=",
-      "url": "https://github.com/croissantlabs/gitaurora-releases/releases/download/app-v0.1.72/GitAurora_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNkYrbnhKZVRvbHlsMVI4K0VnMm1VMUIrakh4ZzhVeU8xNjZlbGFjWjROR05Ja25FazFGQmk5SmV4RVhKYlhoU2FqYTNMcUZaM3pWN1lubzk2R2JUTlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NjQ4MTU5CWZpbGU6R2l0QXVyb3JhLmFwcC50YXIuZ3oKYnFzcEIzQ0R6aVFFS2hoTzlzSDZldWQ0MVdNV1FyUDBnL3U3RXUwR0hpVmZrMmRVWFpUMXJVdVpuRlFhMUJ6TERiNjNHRERVUnlHNnl0b3E5dFpQQ3c9PQo=",
+      "url": "https://github.com/croissantlabs/gitaurora-releases/releases/download/app-v0.1.73/GitAurora_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNkIvVGRqK0JVL29SbGpzZmZPS0NpdE9Db3dOTmJudk93RzFxMTB1NXN4dzZUc09UM1NjY3JmSW9yUFVHL25NeEZtU1llZUJHdXdzWWdaSmUyaUh3QWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NjQ3Mjg0CWZpbGU6R2l0QXVyb3JhXzAuMS43Ml94NjRfZW4tVVMubXNpClM5TjRqbzV6T1ZETHU2VjRVWTFwLzlyZE9ZZmZWWmRRTTYwNm1OaGx4UjlyUjdjb2ZVR0xyRmFoU21WZU5DYk1jN1E1M2htUlkxeDc2Qm4zTUJIakFnPT0K",
-      "url": "https://github.com/croissantlabs/gitaurora-releases/releases/download/app-v0.1.72/GitAurora_0.1.72_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMmRIeGxNWnVCNkJzKzJmMkNqNEQ3UnBSYjBuby8zUVROVWxlZytIMXlIYmZ0amZnNlNCQ2trcjhYNTRCVnlJMjRnS25Gd0lJWmxKSE1pOHVBaGg3VFN6bEJka2ZxMlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NjQ4NDkwCWZpbGU6R2l0QXVyb3JhXzAuMS43M194NjRfZW4tVVMubXNpCmJsU1lSS2xIZGFvZnBuMWRydmxBQXp3SjdLWjRiREx6UjJ0eTNPN3FNeTNLdllKK29ZVHM4MzlXZzVvcmQ2QkI1N2o5WFgzZitQeW05czAwRVZ6dkNRPT0K",
+      "url": "https://github.com/croissantlabs/gitaurora-releases/releases/download/app-v0.1.73/GitAurora_0.1.73_x64_en-US.msi"
     }
   }
 }
